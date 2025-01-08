@@ -58,11 +58,11 @@
 
 ### 📊 **GitHub Stats**
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=knownmax&show_icons=true&locale=en&layout=compact" alt="knownmax" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=knownmax&show_icons=true&locale=en&layout=donut" alt="knownmax" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=knownmax&show_icons=true&locale=en" alt="knownmax" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=knownmax&show_icons=true&locale=en&theme=dracula&bg_color=00000000" alt="knownmax" />
 </p>
 
 ---
