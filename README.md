@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=oybek0407&label=Profile%20views&color=0e75b6&style=flat" alt="knownmax" /> 
+  <img src="https://komarev.com/ghpvc/?username=knownmax&label=Profile%20views&color=0e75b6&style=flat" alt="knownmax" /> 
 </p>
 
 ---
