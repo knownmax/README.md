@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maksadbek</h1>
 <h3 align="center">A Passionate Machine Learning and Deep Learning Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*B4NL8NsOivEV0UUx8CdYZg.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*B4NL8NsOivEV0UUx8CdYZg.gif](https://miro.medium.com/v2/resize:fit:1280/1*B4NL8NsOivEV0UUx8CdYZg.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=knownmax&label=Profile%20views&color=0e75b6&style=flat" alt="knownmax" /> 
