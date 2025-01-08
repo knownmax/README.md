@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Maksadbek</h1>
 <h3 align="center">A Passionate Machine Learning and Deep Learning Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://rvitsystems.com/wp-content/uploads/2022/06/ai-rvit.gif">
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=knownmax&label=Profile%20views&color=0e75b6&style=flat" alt="knownmax" /> 
 </p>
+
+---
+
+<div align="center">
+  <img align="center" alt="Coding" width="400" src="https://rvitsystems.com/wp-content/uploads/2022/06/ai-rvit.gif">
+</div>
 
 ---
 
